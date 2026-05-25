@@ -1,4 +1,3 @@
-\xpg@aux {}{thai}
 \contentsline {chapter}{\numberline {1}ตรีโกณมิติเบื้องต้น}{1}{}%
 \contentsline {section}{\numberline {1.1}อัตราส่วนตรีโกณมิติ}{1}{}%
 \contentsline {subsection}{\numberline {1.1.1}อัตราส่วนตรีโกณมิติพื้นฐานที่ควรรู้}{1}{}%
